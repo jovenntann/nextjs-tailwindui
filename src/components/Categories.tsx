@@ -29,7 +29,7 @@ const categories = [
 
 export default function Categories() {
   return (
-    <section aria-labelledby="category-heading" className="pt-24 sm:pt-32 xl:mx-auto xl:max-w-7xl xl:px-8">
+    <section aria-labelledby="category-heading" className="pt-24 sm:pt-8 xl:mx-auto xl:max-w-7xl xl:px-8">
       <div className="px-4 sm:flex sm:items-center sm:justify-between sm:px-6 lg:px-8 xl:px-0">
         <h2 id="category-heading" className="text-2xl font-bold tracking-tight text-gray-900">
           Shop by Category
